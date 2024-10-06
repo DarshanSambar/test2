@@ -1,2 +1,7 @@
 This is file 2
+<<<<<<< HEAD
 from master branch
+=======
+from develop branch
+not from master
+>>>>>>> develop
